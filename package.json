@@ -1,0 +1,23 @@
+{
+  "name": "Bondsy",
+  "version": "1.0.0",
+  "root": "bondsy",
+  "description": "bondsy",
+  "homepage": "",
+  "author": "Alex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-ui/bondsy"
+  },
+  "bugs": {
+    "url": "https://github.com/handyjs/base-ui/issues"
+  },
+  "license": "MIT",
+  "output": {},
+  "tag": "mobile",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-less": "~0.5.2",
+    "grunt-contrib-watch": "~0.4.3"
+  }
+}
